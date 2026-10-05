@@ -1,0 +1,6 @@
+{
+  "name": "MindThread",
+  "description": "Build personalized, structured learning paths and interactive micro-courses from questions you ask throughout your day.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
